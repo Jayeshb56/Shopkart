@@ -1,0 +1,33 @@
+[{
+    "name" : "SanDisk Ultra® microSDXC UHS-I Card, 64GB, 140MB/s R, 10 Y Warranty, for Smartphones",
+    "prize": "419",
+    "description" : "SD CArd" ,
+    "ratings": 4.5,
+    "images": [{
+        "public_id" : "A01",
+        "url" : "https://www.shutterstock.com/shutterstock/photos/306145007/display_1500/stock-vector-memory-sd-card-for-various-devices-306145007.jpg"
+    }], 
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 4 ,
+    "numberofReviews": "12",
+    "reviews": []
+
+},
+{
+    "name" : "SAMSUNG Galaxy F04 (Opal Green, 64 GB)  (4 GB RAM",
+    "prize": "419",
+    "description" : "Mobile" ,
+    "ratings": 4.5,
+    "images": [{
+        "public_id" : "A02",
+        "url" : "https://media.istockphoto.com/id/1318420912/vector/mock-up-screen-phone.jpg?s=1024x1024&w=is&k=20&c=mLYX1vgzyzl0kqToYdOQfd6CDcYSAvBon6MQ1gxInTI="
+    }], 
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 4 ,
+    "numberofReviews": "12",
+    "reviews": []
+
+}
+]
